@@ -38,6 +38,14 @@ Here are some ideas to get you started:
  ---
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hishamanik&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hishamanik&langs_count=8)](https://github-readme-stats-tau-black.vercel.app)
+
+### PageSpeed score 
+<p align="center">
+	<img align="center" src="/assets/pagespeed.svg" width="800px">
+</p>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
  
 # HAVE A GOOD DAY
