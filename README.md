@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Visitors
+
+<p><a href="https://github.com/Hishamanik"><img width="150" align='center' src="https://pointy-opposite-office.glitch.me/count.svg"></a></p>
+
 👯 I’m looking to collaborate with other content creators
 
 🥅 2021 Goals: Contribute more to Open Source projects
