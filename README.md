@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 <!-- MEDIUM:END -->
 
  ---
-
-
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hishamanik&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hishamanik&langs_count=8)](https://github-readme-stats-tau-black.vercel.app)
 
@@ -45,5 +44,6 @@ Here are some ideas to get you started:
  
 # HAVE A GOOD DAY
 [![Built_With](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 
 <!--
