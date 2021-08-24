@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 
  ---
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hishamanik&show_icons=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hishamanik&langs_count=8)](https://github-readme-stats-tau-black.vercel.app)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hishamanik&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hishamanik&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
 
 
