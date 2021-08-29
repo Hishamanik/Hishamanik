@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 🥅 2021 Goals: Contribute more to Open Source projects
 
+🌱 I’m currently learning Web development
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alhishamanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alhisham" height="30" width="40" /></a>
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hishamanik&theme=tokyonight" alt="mystreak"/>
 ![Hishmanik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hishamanik&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning Web development
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
