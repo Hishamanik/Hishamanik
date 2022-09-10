@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <p><a href="https://github.com/Hishamanik"><img width="150" align='center' src="https://pointy-opposite-office.glitch.me/count.svg"></a></p>
 
-👯 I’m looking for internship opportunities in the upcoming Summer 2022.
+👯 I’m looking for full time opportunities starting from Summer 2023.
 
-🥅 2021 Goals: Contribute more to Open Source projects.
+🥅 2022 Goals: Contribute more to Open Source projects.
 
-🌱 I’m currently learning Web development and working on a patent.
+🌱 I’m currently learning Web development and Cloud.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
