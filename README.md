@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## By the way here are some of my statistics 🚀
 ![Hishamanik's github stats](https://github-readme-stats.vercel.app/api?username=Hishamanik&show_icons=true&theme=tokyonight)
-![Hishmanik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hishamanik&theme=tokyonight&layout=compact)
+<!--![Hishmanik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hishamanik&theme=tokyonight&layout=compact) -->
 
 
 
