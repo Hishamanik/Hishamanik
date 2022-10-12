@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🔭 I’m currently working on an Android Development Project
+- 🌱 I’m currently learning Advance Web Development and Android Studio
+- 🤔 I’m looking for help with Typescript pair programming
+
 ## Visitors
 
 <p><a href="https://github.com/Hishamanik"><img width="150" align='center' src="https://pointy-opposite-office.glitch.me/count.svg"></a></p>
