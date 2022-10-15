@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an Android Development Project
 - 🌱 I’m currently learning Advance Web Development and Android Studio
-- 🤔 I’m looking for help with Typescript pair programming
+- 🤔 I’m looking for help with Typescript 
 
 ## Visitors
 
