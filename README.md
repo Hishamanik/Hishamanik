@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on an Android Development Project
-- 🌱 I’m currently learning Advance Web Development and Android Studio
-- 🤔 I’m looking for help with Typescript and GraphQL
+- 🔭 I’m currently working on an Ansible, Terraform, Cloud, Networks.
+- 🌱 I’m currently learning Cloud Kubernetes
+- 🤔 I’m looking to help with any SRE related work
 
 ## Visitors
 
 <p><a href="https://github.com/Hishamanik"><img width="150" align='center' src="https://pointy-opposite-office.glitch.me/count.svg"></a></p>
 
-👯 I’m looking for full time opportunities starting from Summer 2023.
+👯 I’m looking match with more tech enthusiastics and share knowledge.
 
-🥅 2022 Goals: Contribute more to Open Source projects.
+🥅 2023 Goals: Contribute more to Open Source projects.
 
 🌱 I’m currently learning Web development and Cloud.
 
